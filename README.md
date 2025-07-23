@@ -1,1 +1,1 @@
-# footer-with-positioning
+# Footer-with-positioning
